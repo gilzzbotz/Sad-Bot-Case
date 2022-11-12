@@ -1020,7 +1020,7 @@ break
             }
             break
             case 'sc': {
-                m.reply('https://wa.me/6282287219167')
+                m.reply('https://wa.me/6285730794089')
             }
             break		 
             case 'subsyt': {
@@ -2523,7 +2523,7 @@ case 'test':
 ]
 const pahh = {
 text: `Total Hit : ${totalhit}\nHit Today : ${totalhittd}`,
-footer: `© Sad-Bot`,
+footer: `© Gilzz-Bot`,
 buttons: buttons5,
 headerType: 1
 }
@@ -4581,7 +4581,7 @@ _⫹⫺ Bot Name : Sad-Bot_
 _⫹⫺ Library : Baileys-Md_
 _⫹⫺ Version : 4.0.4_
 _⫹⫺ Language : Javascript_
-_⫹⫺ Recoder : 𝙋𝙖𝙥𝙖𝙝-𝘾𝙝𝙖𝙣_
+_⫹⫺ Recoder : Gilzz exe_
 _⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}_
 _⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_                
 _⫹⫺ Bot Mode : Public Mode_
@@ -4982,8 +4982,8 @@ BochilGaming
 Mayumi Kun
 Iqbal
 Eren
-User Sad Bot`
-                let buttons = [{ buttonId: 'donasi', buttonText: { displayText: '🙏Donasi' }, type: 1 },{ buttonId: 'rules', buttonText: { displayText: '❗Rules' }, type: 1 }]
+User Gilzz Bot`
+                let buttons = [{ buttonId: 'sc', buttonText: { displayText: 'Script' }, type: 1 },{ buttonId: 'sewabot', buttonText: { displayText: 'Sewa Bot' }, type: 1 }]
             papah.sendMessage(m.chat, { caption: `${anu}`, location: { jpegThumbnail: await reSize(faall, 300, 200)}, buttons: buttons, footer: nyoutube, mentions: ments})
             }
             break
